@@ -1,4 +1,5 @@
 Hi there, I'm Dennis Kemboi 🤝
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 ’m currently a Fullstack web  developer 
