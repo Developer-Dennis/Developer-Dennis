@@ -1,5 +1,5 @@
 Hi there, I'm Dennis Kemboi 🤝
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Developer-Dennis}/count.svg)
 
 
 ’m currently a Fullstack web  developer 
@@ -9,4 +9,5 @@ Hi there, I'm Dennis Kemboi 🤝
 - 📫 How to reach me: denkogei24@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I support African music to the World : my background is Diploma in Information Technologybut learnt that I can be a developer without a CS degree
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Developer-Dennis=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
