@@ -2,7 +2,7 @@ Hi there, I'm Dennis Kemboi 🤝
 
 
 
-               ![Visitor Count](https://profile-counter.glitch.me/{Developer-Dennis}/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/{Developer-Dennis}/count.svg)
 
 ’m currently a Fullstack web  developer 
 - 🌱 I’m currently learning react Js
