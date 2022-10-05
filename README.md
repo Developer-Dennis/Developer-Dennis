@@ -17,3 +17,7 @@ Hi there, I'm Dennis Kemboi 🤝
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Dennis&show_icons=true&theme=radical)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Dennis)](https://git.io/streak-stats)
