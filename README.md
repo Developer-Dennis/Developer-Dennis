@@ -21,3 +21,10 @@ Hi there, I'm Dennis Kemboi 🤝
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Dennis)](https://git.io/streak-stats)
+
+
+
+
+
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,Node js,Ejs)](https://skills.thijs.gg)
