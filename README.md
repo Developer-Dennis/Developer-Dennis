@@ -24,7 +24,6 @@ Hi there, I'm Dennis Kemboi 🤝
 
 
 
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,html,css,nodejs,ejs&theme=light)](https://skills.thijs.gg)
 
 
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,Node js,Ejs)](https://skills.thijs.gg)
