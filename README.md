@@ -23,6 +23,9 @@ i love creating web applications
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Developer-Dennis&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Dennis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Technologies I Use
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,vue,mysql,ejs&theme=dark)](https://skills.thijs.gg)
