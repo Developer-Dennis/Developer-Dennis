@@ -20,8 +20,6 @@ i love creating web applications
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Dennis)](https://git.io/streak-stats&theme=vision-friendly-dark)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Developer-Dennis&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
