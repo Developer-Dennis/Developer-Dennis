@@ -22,7 +22,7 @@ i love creating web applications
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Dennis)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Developer-Dennis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Dennis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Technologies I Use
 
