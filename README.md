@@ -16,7 +16,7 @@ i love creating web applications
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Dennis&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Dennis&show_icons=true&theme=dark)
 
 
 
