@@ -3,6 +3,11 @@ Hi 👋, I'm Dennis Kemboi 🤝
 
 
   ![Visitor Count](https://profile-counter.glitch.me/{Developer-Dennis}/count.svg)
+  
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  
 
   I’m currently a Web Developer 
 - 🌱 I’m currently learning Vue Js
