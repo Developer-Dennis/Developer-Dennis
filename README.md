@@ -24,7 +24,7 @@ i love creating web applications
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Dennis&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats&theme=vision-friendly-dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Dennis&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats&theme=highcontrast)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Dennis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
