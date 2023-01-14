@@ -23,14 +23,14 @@ i love creating web applications
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?/user=Developer-Dennis&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?/username=Developer-Dennis&hide=contribs,prs)
 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Developer-Dennis&theme=highcontrast)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=Developer-Dennis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Dennis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
