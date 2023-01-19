@@ -37,6 +37,6 @@ i love creating web applications
 
 Technologies I Use
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,vue,mysql,ejs&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,vue,mysql,php,ejs&theme=dark)](https://skills.thijs.gg)
 
 
